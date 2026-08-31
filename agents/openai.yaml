@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品拆解"
+  short_description: "基于一手证据分类产品，完成四层架构逆向拆解与 HTML 报告"
+  default_prompt: "使用 $evidence-driven-product-deconstruction 判断这个产品的类型，检查证据就绪度，依次分析用户层、技术层、模型层和数据层，并生成一个可追溯的独立 HTML 报告。"
